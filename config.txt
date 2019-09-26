@@ -1,0 +1,6 @@
+﻿token=NjI2ODcwOTMyMDA2NTAyNDEw.XY0ZQw.-7ezfNRVmy_9kbnefjvhpzJSnN8
+owner=467634594338832384
+prefix= G
+game=♕Gh[o]St♣
+stayinchannel=true
+songinstatus=true 
